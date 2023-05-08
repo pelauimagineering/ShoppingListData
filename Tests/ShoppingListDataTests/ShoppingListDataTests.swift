@@ -1,7 +1,7 @@
 import XCTest
-@testable import ShoppingListDataa
+@testable import ShoppingListData
 
-final class ShoppingListDataaTests: XCTestCase {
+final class ShoppingListDataTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct

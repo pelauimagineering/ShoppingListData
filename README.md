@@ -1,3 +1,4 @@
-# ShoppingListDataa
+# ShoppingListData
 
-A description of this package.
+Core functionality and UI for Shopping List management
+
